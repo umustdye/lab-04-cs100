@@ -2,8 +2,7 @@
 using namespace std;
 
 int main() {
-    int x;
-    cout << x << endl;
-
+    int x = 10;
+    cout<<x<<endl;
     return 0;
 }
